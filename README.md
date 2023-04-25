@@ -1,6 +1,5 @@
 # SAN-NaviSTAR
-This repository contains the source code for our paper: "NaviSTAR: Socially Aware Robot Navigation with Hybrid Spatio-Temporal Graph Transformer and Preference Learning", submitted to IROS-2023.
-For more details, please refer to [our project website](https://sites.google.com/view/san-navistar).
+This repository contains the source code for our paper: "NaviSTAR: Socially Aware Robot Navigation with Hybrid Spatio-Temporal Graph Transformer and Preference Learning". For more details, please refer to [our project website](https://sites.google.com/view/san-navistar).
 
 
 ## Abstract
