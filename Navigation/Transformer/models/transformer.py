@@ -8,18 +8,7 @@ import math
 
 
 class husformerEncoder(nn.Module):
-    """
-    Transformer encoder consisting of *args.encoder_layers* layers. Each layer
-    is a :class:`TransformerEncoderLayer`.
-    Args:
-        embed_tokens (torch.nn.Embedding): input embedding
-        num_heads (int): number of heads
-        layers (int): number of layers
-        attn_dropout (float): dropout applied on the attention weights
-        relu_dropout (float): dropout applied on the first layer of the residual block
-        res_dropout (float): dropout applied on the residual block
-        attn_mask (bool): whether to apply mask on the attention weights
-    """
+  
 
     def __init__(self, embed_dim, num_heads, layers, attn_dropout=0.0, relu_dropout=0.0, res_dropout=0.0,
                  embed_dropout=0.0, attn_mask=False):
