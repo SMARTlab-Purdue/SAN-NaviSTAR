@@ -73,7 +73,7 @@ If you find the code or the paper useful for your research, please cite our pape
 ## Acknowledgement
 
 Contributors:  
-[Weizheng Wang](https://github.com/WzWang-Robot/FAPL); [Ruiqi Wang](https://github.com/R7-Robot?tab=repositories); Le Mao; [Byung-Cheol Min](http://www.smart-laboratory.org/group/bcm.html).
+[Weizheng Wang](https://github.com/WzWang-Robot); [Ruiqi Wang](https://github.com/R7-Robot?tab=repositories); Le Mao; [Byung-Cheol Min](http://www.smart-laboratory.org/group/bcm.html).
 
 Part of the code is based on the following repositories:  
 
