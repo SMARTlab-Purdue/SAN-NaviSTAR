@@ -62,15 +62,7 @@ python test_sac.py
 ```
 
 ## Render
-Please run:
-```
-python render.py
-```
-or
-```
-python render_sac.py
-```
-`.gif`file will be saved in [gif](gif)
+`.gif`files were saved in [gif](gif)
 
 
 ## Citation
