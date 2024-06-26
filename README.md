@@ -46,6 +46,8 @@ python train_sac.py
 ```
 Training model will be saved in [data/navigation](data/navigation)
 
+Our pre-trained model (NaviSTAR) was saved in [data/navigation/star_sac](data/navigation/star_sac)
+
 ## Evaluating
 To evaluate the model performance, please run:
 ```
@@ -57,9 +59,15 @@ python test_sac.py
 ```
 
 ## Render
-Our pre-trained model (NaviSTAR) was saved in [data/navigation/star_sac](data/navigation/star_sac)
-
-`.gif`file was saved in [gif](gif)
+Please run:
+```
+python render.py
+```
+or
+```
+python render_sac.py
+```
+`.gif`file will be saved in [gif](gif)
 
 
 ## Citation
