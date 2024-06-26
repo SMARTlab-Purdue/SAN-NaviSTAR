@@ -57,7 +57,7 @@ python test_sac.py
 ```
 
 ## Render
-Our pre-trained model (NaviSTAR) was saved in [data/navigation/star](data/navigation/star)
+Our pre-trained model (NaviSTAR) was saved in [data/navigation/star_sac](data/navigation/star_sac)
 
 `.gif`file was saved in [gif](gif)
 
