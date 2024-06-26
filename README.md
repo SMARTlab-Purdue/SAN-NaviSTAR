@@ -3,6 +3,9 @@
 
 For information, please refer to [our website](https://sites.google.com/view/san-navistar).
 
+Correspondence to: 
+  - Weizheng Wang (wang5716@purdue.edu)
+
 ## Abstract
 Developing robotic technologies for use in human society requires ensuring the safety of robots' navigation behaviors while adhering to pedestrians' expectations and social norms. 
 However, understanding complex human-robot interactions (HRI) to infer potential cooperation and response among robots and pedestrians for cooperative collision avoidance is challenging. 
