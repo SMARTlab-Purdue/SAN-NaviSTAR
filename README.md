@@ -64,6 +64,8 @@ python test_sac.py
 ## Render
 `.gif`files were saved in [gif](gif)
 
+The visulaization cases of NaviSTAR were saved in [gif/star_sac](gif/star_sac)
+
 
 ## Citation
 If you find this repository useful, please cite our [paper](https://ieeexplore.ieee.org/document/10341395):
