@@ -15,6 +15,19 @@ To compare, we train and test our algorithm with other state-of-the-art methods 
 
 <img src="figures/architecture.png" width="1000" />
 
+## Related Works
+[1]. (ICRA-2024) Multi-Robot Cooperative Socially-Aware Navigation Using Multi-Agent Reinforcement Learning 
+
+https://arxiv.org/pdf/2309.15234
+
+[2]. (Under Review) SRLM: Human-in-Loop Interactive Social Robot Navigation with Large Language Model and Deep Reinforcement Learning 
+
+https://https//arxiv.org/pdf/2403.15648
+
+[3]. (IROS-2022) FAPL: Feedback-efficient Active Preference Learning for Socially Aware Robot Navigation
+
+https://ieeexplore.ieee.org/document/9981616
+
 ## Requirement
 
 ### Environment
