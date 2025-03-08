@@ -16,23 +16,27 @@ To compare, we train and test our algorithm with other state-of-the-art methods 
 <img src="figures/architecture.png" width="1000" />
 
 ## Related Works
-[1]. (Under Review) Human-Robot Cooperative Distribution Coupling for Hamiltonian-Constrained Social Navigation
+[1]. (Under Review) SALM: Unifying Large Language Model and Deep Reinforcement Learning for Human-in-Loop Interactive Socially-aware Navigation
+
+https://https//arxiv.org/pdf/
+
+[2]. (Under Review) SAMALM: Multi-Agent LLM Actor-Critic Framework for Social Robot Navigation
+
+https://https//arxiv.org/pdf/
+
+[3]. (ICRA-2025) NaviDIFF: Human-Robot Cooperative Distribution Coupling for Hamiltonian-Constrained Social Navigation
 
 https://arxiv.org/pdf/2409.13573
 
-[2]. (Under Review) Hyper-SAMARL: Hypergraph-based Coordinated Task Allocation and Socially-aware Navigation for Multi-Robot Systems
+[4]. (ICRA-2025) Hyper-SAMARL: Hypergraph-based Coordinated Task Allocation and Socially-aware Navigation for Multi-Robot Systems
 
 https://arxiv.org/pdf/2409.11561
 
-[3]. (ICRA-2024) Multi-Robot Cooperative Socially-Aware Navigation Using Multi-Agent Reinforcement Learning 
+[5]. (ICRA-2024) SAMARL: Multi-Robot Cooperative Socially-Aware Navigation Using Multi-Agent Reinforcement Learning 
 
 https://arxiv.org/pdf/2309.15234
 
-[4]. (Under Review) SRLM: Human-in-Loop Interactive Social Robot Navigation with Large Language Model and Deep Reinforcement Learning 
-
-https://https//arxiv.org/pdf/2403.15648
-
-[5]. (IROS-2022) FAPL: Feedback-efficient Active Preference Learning for Socially Aware Robot Navigation
+[6]. (IROS-2022) FAPL: Feedback-efficient Active Preference Learning for Socially Aware Robot Navigation
 
 https://ieeexplore.ieee.org/document/9981616
 
