@@ -110,4 +110,4 @@ If you find this repository useful, please cite our [paper](https://ieeexplore.i
 This code partly bases on [DSRNN](https://github.com/Shuijing725/CrowdNav_DSRNN), [SAC](https://github.com/denisyarats/pytorch_sac). We thank the authors for releasing their code.
 
 ## Contributors
-Le Mao, [Weizheng Wang](https://github.com/WzWang-Robot), and [Byung-Cheol Min](https://web.ics.purdue.edu/%7Eminb/)
+[Weizheng Wang](https://github.com/WzWang-Robot), Le Mao, and [Byung-Cheol Min](https://web.ics.purdue.edu/%7Eminb/)
